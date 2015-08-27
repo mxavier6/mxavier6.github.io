@@ -6,9 +6,7 @@ permalink: /about/
 
 
 
-### More Information
-
-My name is Matthew Xavier and I am currently taking Object Oriented Programming in Fall 2015 with Professor Downing.
+My name is Matthew Xavier and I am currently taking Object Oriented Programming in Fall 2015 with Professor Downing.\n
 This blog will include a week-by-week basis of my experiences in the class.
 
 ### Contact me
