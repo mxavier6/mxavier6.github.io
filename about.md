@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Matthew Xavier and I am currently taking Object Oriented Programming in Fall 2015 with Professor Downing.
+This blog will include a week-by-week basis of my experiences in the class.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Send an email](mailto:mxavier6@cs.utexas.edu)
